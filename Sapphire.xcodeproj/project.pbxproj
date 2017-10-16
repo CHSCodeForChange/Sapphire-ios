@@ -77,9 +77,9 @@
 		9C2385331F95243B004990FE = {
 			isa = PBXGroup;
 			children = (
-				9C23853E1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire */,
-				9C2385531F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests */,
-				9C23855E1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests */,
+				9C23853E1F95243B004990FE /* Sapphire */,
+				9C2385531F95243C004990FE /* Tests */,
+				9C23855E1F95243C004990FE /* UITests */,
 				9C23853D1F95243B004990FE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -94,7 +94,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9C23853E1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire */ = {
+		9C23853E1F95243B004990FE /* Sapphire */ = {
 			isa = PBXGroup;
 			children = (
 				9C23853F1F95243C004990FE /* AppDelegate.swift */,
@@ -104,25 +104,25 @@
 				9C2385481F95243C004990FE /* LaunchScreen.storyboard */,
 				9C23854B1F95243C004990FE /* Info.plist */,
 			);
-			path = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
+			path = Sapphire;
 			sourceTree = "<group>";
 		};
-		9C2385531F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests */ = {
+		9C2385531F95243C004990FE /* Tests */ = {
 			isa = PBXGroup;
 			children = (
 				9C2385541F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireTests.swift */,
 				9C2385561F95243C004990FE /* Info.plist */,
 			);
-			path = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests";
+			path = Tests;
 			sourceTree = "<group>";
 		};
-		9C23855E1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests */ = {
+		9C23855E1F95243C004990FE /* UITests */ = {
 			isa = PBXGroup;
 			children = (
 				9C23855F1F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireUITests.swift */,
 				9C2385611F95243C004990FE /* Info.plist */,
 			);
-			path = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests";
+			path = UITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,7 +207,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9C2385371F95243B004990FE /* Build configuration list for PBXProject "A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire" */;
+			buildConfigurationList = 9C2385371F95243B004990FE /* Build configuration list for PBXProject "Sapphire" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -429,7 +429,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "chscodeforchange.A----This-is-so-everyone-can-see-at-a-glance-potential-research-that-could-help-with-their-essay-Sapphire";
+				PRODUCT_BUNDLE_IDENTIFIER = Sapphire;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -443,7 +443,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "chscodeforchange.A----This-is-so-everyone-can-see-at-a-glance-potential-research-that-could-help-with-their-essay-Sapphire";
+				PRODUCT_BUNDLE_IDENTIFIER = Sapphire;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -515,7 +515,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9C2385371F95243B004990FE /* Build configuration list for PBXProject "A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire" */ = {
+		9C2385371F95243B004990FE /* Build configuration list for PBXProject "Sapphire" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9C2385621F95243C004990FE /* Debug */,
