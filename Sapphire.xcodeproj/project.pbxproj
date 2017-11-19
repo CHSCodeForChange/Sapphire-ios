@@ -7,64 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9C2385401F95243C004990FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C23853F1F95243C004990FE /* AppDelegate.swift */; };
-		9C2385421F95243C004990FE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2385411F95243C004990FE /* ViewController.swift */; };
-		9C2385451F95243C004990FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C2385431F95243C004990FE /* Main.storyboard */; };
-		9C2385471F95243C004990FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C2385461F95243C004990FE /* Assets.xcassets */; };
-		9C23854A1F95243C004990FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C2385481F95243C004990FE /* LaunchScreen.storyboard */; };
-		9C2385551F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C2385541F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireTests.swift */; };
-		9C2385601F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C23855F1F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireUITests.swift */; };
+		9C1ECA071FC20D9F00FA7521 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1ECA061FC20D9F00FA7521 /* AppDelegate.swift */; };
+		9C1ECA091FC20D9F00FA7521 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1ECA081FC20D9F00FA7521 /* ViewController.swift */; };
+		9C1ECA0C1FC20D9F00FA7521 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C1ECA0A1FC20D9F00FA7521 /* Main.storyboard */; };
+		9C1ECA0E1FC20D9F00FA7521 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C1ECA0D1FC20D9F00FA7521 /* Assets.xcassets */; };
+		9C1ECA111FC20D9F00FA7521 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C1ECA0F1FC20D9F00FA7521 /* LaunchScreen.storyboard */; };
+		9C1ECA1C1FC20D9F00FA7521 /* SapphireTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1ECA1B1FC20D9F00FA7521 /* SapphireTests.swift */; };
+		9C1ECA271FC20D9F00FA7521 /* SapphireUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1ECA261FC20D9F00FA7521 /* SapphireUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		9C2385511F95243C004990FE /* PBXContainerItemProxy */ = {
+		9C1ECA181FC20D9F00FA7521 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 9C2385341F95243B004990FE /* Project object */;
+			containerPortal = 9C1EC9FB1FC20D9E00FA7521 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9C23853B1F95243B004990FE;
-			remoteInfo = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
+			remoteGlobalIDString = 9C1ECA021FC20D9F00FA7521;
+			remoteInfo = Sapphire;
 		};
-		9C23855C1F95243C004990FE /* PBXContainerItemProxy */ = {
+		9C1ECA231FC20D9F00FA7521 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 9C2385341F95243B004990FE /* Project object */;
+			containerPortal = 9C1EC9FB1FC20D9E00FA7521 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9C23853B1F95243B004990FE;
-			remoteInfo = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
+			remoteGlobalIDString = 9C1ECA021FC20D9F00FA7521;
+			remoteInfo = Sapphire;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9C23853C1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9C23853F1F95243C004990FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9C2385411F95243C004990FE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		9C2385441F95243C004990FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9C2385461F95243C004990FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9C2385491F95243C004990FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9C23854B1F95243C004990FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9C2385501F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9C2385541F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireTests.swift"; sourceTree = "<group>"; };
-		9C2385561F95243C004990FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9C23855B1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9C23855F1F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireUITests.swift"; sourceTree = "<group>"; };
-		9C2385611F95243C004990FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C1ECA031FC20D9F00FA7521 /* Sapphire.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sapphire.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C1ECA061FC20D9F00FA7521 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9C1ECA081FC20D9F00FA7521 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9C1ECA0B1FC20D9F00FA7521 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9C1ECA0D1FC20D9F00FA7521 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9C1ECA101FC20D9F00FA7521 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9C1ECA121FC20D9F00FA7521 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C1ECA171FC20D9F00FA7521 /* SapphireTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SapphireTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C1ECA1B1FC20D9F00FA7521 /* SapphireTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SapphireTests.swift; sourceTree = "<group>"; };
+		9C1ECA1D1FC20D9F00FA7521 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C1ECA221FC20D9F00FA7521 /* SapphireUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SapphireUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C1ECA261FC20D9F00FA7521 /* SapphireUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SapphireUITests.swift; sourceTree = "<group>"; };
+		9C1ECA281FC20D9F00FA7521 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		9C2385391F95243B004990FE /* Frameworks */ = {
+		9C1ECA001FC20D9F00FA7521 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9C23854D1F95243C004990FE /* Frameworks */ = {
+		9C1ECA141FC20D9F00FA7521 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9C2385581F95243C004990FE /* Frameworks */ = {
+		9C1ECA1F1FC20D9F00FA7521 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -74,140 +74,140 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9C2385331F95243B004990FE = {
+		9C1EC9FA1FC20D9E00FA7521 = {
 			isa = PBXGroup;
 			children = (
-				9C23853E1F95243B004990FE /* Sapphire */,
-				9C2385531F95243C004990FE /* Tests */,
-				9C23855E1F95243C004990FE /* UITests */,
-				9C23853D1F95243B004990FE /* Products */,
+				9C1ECA051FC20D9F00FA7521 /* Sapphire */,
+				9C1ECA1A1FC20D9F00FA7521 /* SapphireTests */,
+				9C1ECA251FC20D9F00FA7521 /* SapphireUITests */,
+				9C1ECA041FC20D9F00FA7521 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		9C23853D1F95243B004990FE /* Products */ = {
+		9C1ECA041FC20D9F00FA7521 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9C23853C1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire.app */,
-				9C2385501F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests.xctest */,
-				9C23855B1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests.xctest */,
+				9C1ECA031FC20D9F00FA7521 /* Sapphire.app */,
+				9C1ECA171FC20D9F00FA7521 /* SapphireTests.xctest */,
+				9C1ECA221FC20D9F00FA7521 /* SapphireUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9C23853E1F95243B004990FE /* Sapphire */ = {
+		9C1ECA051FC20D9F00FA7521 /* Sapphire */ = {
 			isa = PBXGroup;
 			children = (
-				9C23853F1F95243C004990FE /* AppDelegate.swift */,
-				9C2385411F95243C004990FE /* ViewController.swift */,
-				9C2385431F95243C004990FE /* Main.storyboard */,
-				9C2385461F95243C004990FE /* Assets.xcassets */,
-				9C2385481F95243C004990FE /* LaunchScreen.storyboard */,
-				9C23854B1F95243C004990FE /* Info.plist */,
+				9C1ECA061FC20D9F00FA7521 /* AppDelegate.swift */,
+				9C1ECA081FC20D9F00FA7521 /* ViewController.swift */,
+				9C1ECA0A1FC20D9F00FA7521 /* Main.storyboard */,
+				9C1ECA0D1FC20D9F00FA7521 /* Assets.xcassets */,
+				9C1ECA0F1FC20D9F00FA7521 /* LaunchScreen.storyboard */,
+				9C1ECA121FC20D9F00FA7521 /* Info.plist */,
 			);
 			path = Sapphire;
 			sourceTree = "<group>";
 		};
-		9C2385531F95243C004990FE /* Tests */ = {
+		9C1ECA1A1FC20D9F00FA7521 /* SapphireTests */ = {
 			isa = PBXGroup;
 			children = (
-				9C2385541F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireTests.swift */,
-				9C2385561F95243C004990FE /* Info.plist */,
+				9C1ECA1B1FC20D9F00FA7521 /* SapphireTests.swift */,
+				9C1ECA1D1FC20D9F00FA7521 /* Info.plist */,
 			);
-			path = Tests;
+			path = SapphireTests;
 			sourceTree = "<group>";
 		};
-		9C23855E1F95243C004990FE /* UITests */ = {
+		9C1ECA251FC20D9F00FA7521 /* SapphireUITests */ = {
 			isa = PBXGroup;
 			children = (
-				9C23855F1F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireUITests.swift */,
-				9C2385611F95243C004990FE /* Info.plist */,
+				9C1ECA261FC20D9F00FA7521 /* SapphireUITests.swift */,
+				9C1ECA281FC20D9F00FA7521 /* Info.plist */,
 			);
-			path = UITests;
+			path = SapphireUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9C23853B1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire */ = {
+		9C1ECA021FC20D9F00FA7521 /* Sapphire */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9C2385641F95243C004990FE /* Build configuration list for PBXNativeTarget "A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire" */;
+			buildConfigurationList = 9C1ECA2B1FC20D9F00FA7521 /* Build configuration list for PBXNativeTarget "Sapphire" */;
 			buildPhases = (
-				9C2385381F95243B004990FE /* Sources */,
-				9C2385391F95243B004990FE /* Frameworks */,
-				9C23853A1F95243B004990FE /* Resources */,
+				9C1EC9FF1FC20D9F00FA7521 /* Sources */,
+				9C1ECA001FC20D9F00FA7521 /* Frameworks */,
+				9C1ECA011FC20D9F00FA7521 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
-			productName = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
-			productReference = 9C23853C1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire.app */;
+			name = Sapphire;
+			productName = Sapphire;
+			productReference = 9C1ECA031FC20D9F00FA7521 /* Sapphire.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9C23854F1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests */ = {
+		9C1ECA161FC20D9F00FA7521 /* SapphireTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9C2385671F95243C004990FE /* Build configuration list for PBXNativeTarget "A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests" */;
+			buildConfigurationList = 9C1ECA2E1FC20D9F00FA7521 /* Build configuration list for PBXNativeTarget "SapphireTests" */;
 			buildPhases = (
-				9C23854C1F95243C004990FE /* Sources */,
-				9C23854D1F95243C004990FE /* Frameworks */,
-				9C23854E1F95243C004990FE /* Resources */,
+				9C1ECA131FC20D9F00FA7521 /* Sources */,
+				9C1ECA141FC20D9F00FA7521 /* Frameworks */,
+				9C1ECA151FC20D9F00FA7521 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9C2385521F95243C004990FE /* PBXTargetDependency */,
+				9C1ECA191FC20D9F00FA7521 /* PBXTargetDependency */,
 			);
-			name = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests";
-			productName = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests";
-			productReference = 9C2385501F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests.xctest */;
+			name = SapphireTests;
+			productName = SapphireTests;
+			productReference = 9C1ECA171FC20D9F00FA7521 /* SapphireTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		9C23855A1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests */ = {
+		9C1ECA211FC20D9F00FA7521 /* SapphireUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9C23856A1F95243C004990FE /* Build configuration list for PBXNativeTarget "A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests" */;
+			buildConfigurationList = 9C1ECA311FC20D9F00FA7521 /* Build configuration list for PBXNativeTarget "SapphireUITests" */;
 			buildPhases = (
-				9C2385571F95243C004990FE /* Sources */,
-				9C2385581F95243C004990FE /* Frameworks */,
-				9C2385591F95243C004990FE /* Resources */,
+				9C1ECA1E1FC20D9F00FA7521 /* Sources */,
+				9C1ECA1F1FC20D9F00FA7521 /* Frameworks */,
+				9C1ECA201FC20D9F00FA7521 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9C23855D1F95243C004990FE /* PBXTargetDependency */,
+				9C1ECA241FC20D9F00FA7521 /* PBXTargetDependency */,
 			);
-			name = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests";
-			productName = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests";
-			productReference = 9C23855B1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests.xctest */;
+			name = SapphireUITests;
+			productName = SapphireUITests;
+			productReference = 9C1ECA221FC20D9F00FA7521 /* SapphireUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		9C2385341F95243B004990FE /* Project object */ = {
+		9C1EC9FB1FC20D9E00FA7521 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0900;
-				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = "CHS Code For Change";
+				LastSwiftUpdateCheck = 0910;
+				LastUpgradeCheck = 0910;
+				ORGANIZATIONNAME = chscodeforchange;
 				TargetAttributes = {
-					9C23853B1F95243B004990FE = {
-						CreatedOnToolsVersion = 9.0;
+					9C1ECA021FC20D9F00FA7521 = {
+						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
 					};
-					9C23854F1F95243C004990FE = {
-						CreatedOnToolsVersion = 9.0;
+					9C1ECA161FC20D9F00FA7521 = {
+						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 9C23853B1F95243B004990FE;
+						TestTargetID = 9C1ECA021FC20D9F00FA7521;
 					};
-					9C23855A1F95243C004990FE = {
-						CreatedOnToolsVersion = 9.0;
+					9C1ECA211FC20D9F00FA7521 = {
+						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 9C23853B1F95243B004990FE;
+						TestTargetID = 9C1ECA021FC20D9F00FA7521;
 					};
 				};
 			};
-			buildConfigurationList = 9C2385371F95243B004990FE /* Build configuration list for PBXProject "Sapphire" */;
+			buildConfigurationList = 9C1EC9FE1FC20D9E00FA7521 /* Build configuration list for PBXProject "Sapphire" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -215,37 +215,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 9C2385331F95243B004990FE;
-			productRefGroup = 9C23853D1F95243B004990FE /* Products */;
+			mainGroup = 9C1EC9FA1FC20D9E00FA7521;
+			productRefGroup = 9C1ECA041FC20D9F00FA7521 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9C23853B1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire */,
-				9C23854F1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests */,
-				9C23855A1F95243C004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests */,
+				9C1ECA021FC20D9F00FA7521 /* Sapphire */,
+				9C1ECA161FC20D9F00FA7521 /* SapphireTests */,
+				9C1ECA211FC20D9F00FA7521 /* SapphireUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9C23853A1F95243B004990FE /* Resources */ = {
+		9C1ECA011FC20D9F00FA7521 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C23854A1F95243C004990FE /* LaunchScreen.storyboard in Resources */,
-				9C2385471F95243C004990FE /* Assets.xcassets in Resources */,
-				9C2385451F95243C004990FE /* Main.storyboard in Resources */,
+				9C1ECA111FC20D9F00FA7521 /* LaunchScreen.storyboard in Resources */,
+				9C1ECA0E1FC20D9F00FA7521 /* Assets.xcassets in Resources */,
+				9C1ECA0C1FC20D9F00FA7521 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9C23854E1F95243C004990FE /* Resources */ = {
+		9C1ECA151FC20D9F00FA7521 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9C2385591F95243C004990FE /* Resources */ = {
+		9C1ECA201FC20D9F00FA7521 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -255,59 +255,59 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		9C2385381F95243B004990FE /* Sources */ = {
+		9C1EC9FF1FC20D9F00FA7521 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C2385421F95243C004990FE /* ViewController.swift in Sources */,
-				9C2385401F95243C004990FE /* AppDelegate.swift in Sources */,
+				9C1ECA091FC20D9F00FA7521 /* ViewController.swift in Sources */,
+				9C1ECA071FC20D9F00FA7521 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9C23854C1F95243C004990FE /* Sources */ = {
+		9C1ECA131FC20D9F00FA7521 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C2385551F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireTests.swift in Sources */,
+				9C1ECA1C1FC20D9F00FA7521 /* SapphireTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9C2385571F95243C004990FE /* Sources */ = {
+		9C1ECA1E1FC20D9F00FA7521 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C2385601F95243C004990FE /* A____This_is_so_everyone_can_see_at_a_glance_potential_research_that_could_help_with_their_essay_SapphireUITests.swift in Sources */,
+				9C1ECA271FC20D9F00FA7521 /* SapphireUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		9C2385521F95243C004990FE /* PBXTargetDependency */ = {
+		9C1ECA191FC20D9F00FA7521 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9C23853B1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire */;
-			targetProxy = 9C2385511F95243C004990FE /* PBXContainerItemProxy */;
+			target = 9C1ECA021FC20D9F00FA7521 /* Sapphire */;
+			targetProxy = 9C1ECA181FC20D9F00FA7521 /* PBXContainerItemProxy */;
 		};
-		9C23855D1F95243C004990FE /* PBXTargetDependency */ = {
+		9C1ECA241FC20D9F00FA7521 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9C23853B1F95243B004990FE /* A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire */;
-			targetProxy = 9C23855C1F95243C004990FE /* PBXContainerItemProxy */;
+			target = 9C1ECA021FC20D9F00FA7521 /* Sapphire */;
+			targetProxy = 9C1ECA231FC20D9F00FA7521 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		9C2385431F95243C004990FE /* Main.storyboard */ = {
+		9C1ECA0A1FC20D9F00FA7521 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9C2385441F95243C004990FE /* Base */,
+				9C1ECA0B1FC20D9F00FA7521 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		9C2385481F95243C004990FE /* LaunchScreen.storyboard */ = {
+		9C1ECA0F1FC20D9F00FA7521 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9C2385491F95243C004990FE /* Base */,
+				9C1ECA101FC20D9F00FA7521 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -315,7 +315,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		9C2385621F95243C004990FE /* Debug */ = {
+		9C1ECA291FC20D9F00FA7521 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -363,7 +363,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -372,7 +372,7 @@
 			};
 			name = Debug;
 		};
-		9C2385631F95243C004990FE /* Release */ = {
+		9C1ECA2A1FC20D9F00FA7521 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -414,7 +414,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
@@ -422,136 +422,136 @@
 			};
 			name = Release;
 		};
-		9C2385651F95243C004990FE /* Debug */ = {
+		9C1ECA2C1FC20D9F00FA7521 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire/Info.plist";
+				INFOPLIST_FILE = Sapphire/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Sapphire;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chscodeforchange.Sapphire;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		9C2385661F95243C004990FE /* Release */ = {
+		9C1ECA2D1FC20D9F00FA7521 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire/Info.plist";
+				INFOPLIST_FILE = Sapphire/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Sapphire;
+				PRODUCT_BUNDLE_IDENTIFIER = com.chscodeforchange.Sapphire;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		9C2385681F95243C004990FE /* Debug */ = {
+		9C1ECA2F1FC20D9F00FA7521 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests/Info.plist";
+				INFOPLIST_FILE = SapphireTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "chscodeforchange.A----This-is-so-everyone-can-see-at-a-glance-potential-research-that-could-help-with-their-essay-SapphireTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.chscodeforchange.SapphireTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire.app/A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sapphire.app/Sapphire";
 			};
 			name = Debug;
 		};
-		9C2385691F95243C004990FE /* Release */ = {
+		9C1ECA301FC20D9F00FA7521 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests/Info.plist";
+				INFOPLIST_FILE = SapphireTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "chscodeforchange.A----This-is-so-everyone-can-see-at-a-glance-potential-research-that-could-help-with-their-essay-SapphireTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.chscodeforchange.SapphireTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire.app/A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Sapphire.app/Sapphire";
 			};
 			name = Release;
 		};
-		9C23856B1F95243C004990FE /* Debug */ = {
+		9C1ECA321FC20D9F00FA7521 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests/Info.plist";
+				INFOPLIST_FILE = SapphireUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "chscodeforchange.A----This-is-so-everyone-can-see-at-a-glance-potential-research-that-could-help-with-their-essay-SapphireUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.chscodeforchange.SapphireUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
+				TEST_TARGET_NAME = Sapphire;
 			};
 			name = Debug;
 		};
-		9C23856C1F95243C004990FE /* Release */ = {
+		9C1ECA331FC20D9F00FA7521 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = "A\"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests/Info.plist";
+				INFOPLIST_FILE = SapphireUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "chscodeforchange.A----This-is-so-everyone-can-see-at-a-glance-potential-research-that-could-help-with-their-essay-SapphireUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.chscodeforchange.SapphireUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "A\"). This is so everyone can see at a glance potential research that could help with their essay Sapphire";
+				TEST_TARGET_NAME = Sapphire;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9C2385371F95243B004990FE /* Build configuration list for PBXProject "Sapphire" */ = {
+		9C1EC9FE1FC20D9E00FA7521 /* Build configuration list for PBXProject "Sapphire" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9C2385621F95243C004990FE /* Debug */,
-				9C2385631F95243C004990FE /* Release */,
+				9C1ECA291FC20D9F00FA7521 /* Debug */,
+				9C1ECA2A1FC20D9F00FA7521 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9C2385641F95243C004990FE /* Build configuration list for PBXNativeTarget "A"). This is so everyone can see at a glance potential research that could help with their essay Sapphire" */ = {
+		9C1ECA2B1FC20D9F00FA7521 /* Build configuration list for PBXNativeTarget "Sapphire" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9C2385651F95243C004990FE /* Debug */,
-				9C2385661F95243C004990FE /* Release */,
+				9C1ECA2C1FC20D9F00FA7521 /* Debug */,
+				9C1ECA2D1FC20D9F00FA7521 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9C2385671F95243C004990FE /* Build configuration list for PBXNativeTarget "A"). This is so everyone can see at a glance potential research that could help with their essay SapphireTests" */ = {
+		9C1ECA2E1FC20D9F00FA7521 /* Build configuration list for PBXNativeTarget "SapphireTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9C2385681F95243C004990FE /* Debug */,
-				9C2385691F95243C004990FE /* Release */,
+				9C1ECA2F1FC20D9F00FA7521 /* Debug */,
+				9C1ECA301FC20D9F00FA7521 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9C23856A1F95243C004990FE /* Build configuration list for PBXNativeTarget "A"). This is so everyone can see at a glance potential research that could help with their essay SapphireUITests" */ = {
+		9C1ECA311FC20D9F00FA7521 /* Build configuration list for PBXNativeTarget "SapphireUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9C23856B1F95243C004990FE /* Debug */,
-				9C23856C1F95243C004990FE /* Release */,
+				9C1ECA321FC20D9F00FA7521 /* Debug */,
+				9C1ECA331FC20D9F00FA7521 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 9C2385341F95243B004990FE /* Project object */;
+	rootObject = 9C1EC9FB1FC20D9E00FA7521 /* Project object */;
 }
