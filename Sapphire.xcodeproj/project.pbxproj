@@ -14,6 +14,7 @@
 		9C1ECA111FC20D9F00FA7521 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C1ECA0F1FC20D9F00FA7521 /* LaunchScreen.storyboard */; };
 		9C1ECA1C1FC20D9F00FA7521 /* SapphireTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1ECA1B1FC20D9F00FA7521 /* SapphireTests.swift */; };
 		9C1ECA271FC20D9F00FA7521 /* SapphireUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1ECA261FC20D9F00FA7521 /* SapphireUITests.swift */; };
+		9CDF98741FC4E71000C48121 /* SapphireAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CDF98731FC4E71000C48121 /* SapphireAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9C1ECA221FC20D9F00FA7521 /* SapphireUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SapphireUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C1ECA261FC20D9F00FA7521 /* SapphireUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SapphireUITests.swift; sourceTree = "<group>"; };
 		9C1ECA281FC20D9F00FA7521 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CDF98731FC4E71000C48121 /* SapphireAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SapphireAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				9C1ECA061FC20D9F00FA7521 /* AppDelegate.swift */,
+				9CDF98731FC4E71000C48121 /* SapphireAnimation.swift */,
 				9C1ECA081FC20D9F00FA7521 /* ViewController.swift */,
 				9C1ECA0A1FC20D9F00FA7521 /* Main.storyboard */,
 				9C1ECA0D1FC20D9F00FA7521 /* Assets.xcassets */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9C1ECA091FC20D9F00FA7521 /* ViewController.swift in Sources */,
+				9CDF98741FC4E71000C48121 /* SapphireAnimation.swift in Sources */,
 				9C1ECA071FC20D9F00FA7521 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
