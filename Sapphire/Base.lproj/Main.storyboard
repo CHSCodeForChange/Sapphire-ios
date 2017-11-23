@@ -331,6 +331,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="40"/>
                                 <state key="normal" title="Join"/>
+                                <connections>
+                                    <segue destination="myB-EA-J5i" kind="show" id="WTU-JW-Kfb"/>
+                                </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Description" lineBreakMode="tailTruncation" numberOfLines="10" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="90D-jD-Uce">
                                 <rect key="frame" x="65" y="415" width="252" height="28"/>
@@ -359,7 +362,8 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="CdC-Yp-zpi"/>
-        <segue reference="EoQ-m7-RFN"/>
+        <segue reference="raU-vp-SXg"/>
+        <segue reference="WTU-JW-Kfb"/>
+        <segue reference="lKZ-gs-cjc"/>
     </inferredMetricsTieBreakers>
 </document>

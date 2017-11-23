@@ -14,6 +14,7 @@
 		9C1ECA111FC20D9F00FA7521 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C1ECA0F1FC20D9F00FA7521 /* LaunchScreen.storyboard */; };
 		9C1ECA1C1FC20D9F00FA7521 /* SapphireTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1ECA1B1FC20D9F00FA7521 /* SapphireTests.swift */; };
 		9C1ECA271FC20D9F00FA7521 /* SapphireUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1ECA261FC20D9F00FA7521 /* SapphireUITests.swift */; };
+		9CCD4D7B1FC64784004F0F4C /* Login.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CCD4D7A1FC64784004F0F4C /* Login.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9C1ECA221FC20D9F00FA7521 /* SapphireUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SapphireUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C1ECA261FC20D9F00FA7521 /* SapphireUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SapphireUITests.swift; sourceTree = "<group>"; };
 		9C1ECA281FC20D9F00FA7521 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CCD4D7A1FC64784004F0F4C /* Login.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Login.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				9C1ECA061FC20D9F00FA7521 /* AppDelegate.swift */,
 				9C1ECA081FC20D9F00FA7521 /* ViewController.swift */,
 				9C1ECA0A1FC20D9F00FA7521 /* Main.storyboard */,
+				9CCD4D7A1FC64784004F0F4C /* Login.storyboard */,
 				9C1ECA0D1FC20D9F00FA7521 /* Assets.xcassets */,
 				9C1ECA0F1FC20D9F00FA7521 /* LaunchScreen.storyboard */,
 				9C1ECA121FC20D9F00FA7521 /* Info.plist */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CCD4D7B1FC64784004F0F4C /* Login.storyboard in Resources */,
 				9C1ECA111FC20D9F00FA7521 /* LaunchScreen.storyboard in Resources */,
 				9C1ECA0E1FC20D9F00FA7521 /* Assets.xcassets in Resources */,
 				9C1ECA0C1FC20D9F00FA7521 /* Main.storyboard in Resources */,
